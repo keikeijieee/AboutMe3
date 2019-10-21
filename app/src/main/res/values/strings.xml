@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Lee HQ</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="my_desc" > Food I like : Ice cream
+    \n
+    \nHobbies : Eat, Sleep and Watch ghost movie
+    \n
+        \n Education:
+        \n\tTadika Semai Murni
+        \n\tSJK(C) Kepong 1
+    \n\tSMK Kepong Baru
+    \n\tTAR UC
+        \n
+        \nWorking Experience:
+        \n\tPromoter
+        \n\tEvent crew
+        \n\tService crew
+    </string>
+
+</resources>
